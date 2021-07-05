@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = oscar.sodian@gmx.de
+	name = Oscar Sodian
